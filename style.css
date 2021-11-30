@@ -63,7 +63,7 @@ p{
 }
 .plan-name{
     color:black;
-    font-weight:900;
+    
 }
 .cost{
     margin-top:-15px;
@@ -73,7 +73,7 @@ p{
 }
 .change-plan{
     margin-right:15px;
-    color:hsl(245, 75%, 52%);
+   
     
 }
 #plan-cost{
